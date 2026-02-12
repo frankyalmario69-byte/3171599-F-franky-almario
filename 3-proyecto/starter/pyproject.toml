@@ -1,0 +1,10 @@
+[project]
+name = "hotel-booking-api"
+version = "1.0.0"
+description = "Plataforma de reservas hoteleras - Proyecto Semana 01"
+readme = "README.md"
+requires-python = ">=3.11"
+
+dependencies = [
+    "fastapi[standard]>=0.128.0",
+]
